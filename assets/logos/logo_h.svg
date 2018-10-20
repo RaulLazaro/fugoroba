@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="194px" height="56px" viewBox="0 0 194 56" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>LOGO HORIZONTAL</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="NavBar/Normal" transform="translate(-10.000000, -10.000000)">
+            <g id="LOGO-HORIZONTAL" transform="translate(10.000000, 10.000000)">
+                <text id="u" stroke="#485DC5" stroke-width="0.5" fill="#DADADA" fill-rule="evenodd" font-family="Brandish" font-size="29.4982456" font-weight="normal">
+                    <tspan x="56" y="47.4912281">u</tspan>
+                </text>
+                <text id="g" stroke="#485DC5" stroke-width="0.5" fill="#DADADA" fill-rule="evenodd" font-family="Brandish" font-size="29.4982456" font-weight="normal">
+                    <tspan x="75.8947368" y="47.4912281">g</tspan>
+                </text>
+                <text id="o" stroke="#485DC5" stroke-width="0.5" fill="#DADADA" fill-rule="evenodd" font-family="Brandish" font-size="29.4982456" font-weight="normal">
+                    <tspan x="97.2631579" y="47.4912281">o</tspan>
+                </text>
+                <text id="r" stroke="#485DC5" stroke-width="0.5" fill="#DADADA" fill-rule="evenodd" font-family="Brandish" font-size="29.4982456" font-weight="normal">
+                    <tspan x="117.894737" y="47.4912281">r</tspan>
+                </text>
+                <text id="o" stroke="#485DC5" stroke-width="0.5" fill="#DADADA" fill-rule="evenodd" font-family="Brandish" font-size="29.4982456" font-weight="normal">
+                    <tspan x="130.421053" y="47.4912281">o</tspan>
+                </text>
+                <text id="b" stroke="#485DC5" stroke-width="0.5" fill="#DADADA" fill-rule="evenodd" font-family="Brandish" font-size="29.4982456" font-weight="normal">
+                    <tspan x="151.298246" y="47.4912281">b</tspan>
+                </text>
+                <text id="a" stroke="#485DC5" stroke-width="0.5" fill="#DADADA" fill-rule="evenodd" font-family="Brandish" font-size="29.4982456" font-weight="normal">
+                    <tspan x="171.684211" y="47.4912281">a</tspan>
+                </text>
+                <text id="Instalaciones-y-Servicios" fill="#008BD2" fill-rule="evenodd" font-family="ArialMT, Arial" font-size="8.47614035" font-weight="normal">
+                    <tspan x="56.245614" y="20.0350877">Instalaciones y Servicios</tspan>
+                </text>
+                <g id="LOGO-CUADRADO" stroke="#485DC5" stroke-width="0.5">
+                    <rect id="Rectangle-path" fill="#0085CF" fill-rule="nonzero" x="5.40350877" y="5.40350877" width="45.5835088" height="45.5810526"></rect>
+                    <rect id="Rectangle-path" fill="#FFFFFF" fill-rule="nonzero" transform="translate(28.195263, 28.195263) rotate(-15.000000) translate(-28.195263, -28.195263) " x="5.40350877" y="5.40350877" width="45.5835088" height="45.5835088"></rect>
+                    <path d="M28.1940351,5.40350877 L50.994386,5.40350877 L50.994386,28.1915789 C50.994386,40.7178947 40.74,50.9796491 28.2038596,50.9796491 L5.40350877,50.9796491 L5.40350877,28.1915789 C5.40350877,15.6652632 15.6578947,5.40350877 28.1940351,5.40350877 Z" id="Shape" fill="#0085CF" fill-rule="evenodd"></path>
+                    <path d="M21.4150877,30.6157895 L45.814386,30.6452632 C44.0017544,39.917193 35.7712281,46.5340351 28.5133333,46.322807 L21.5059649,46.322807 C21.5305263,49.2701754 21.5501754,50.9894737 21.5501754,50.9894737 L5.40350877,50.9894737 L5.40350877,28.1964912 C5.40350877,15.6701754 15.6578947,5.40350877 28.1940351,5.40350877 L50.9845614,5.40350877 C50.9403509,10.6432749 50.8961404,15.8830409 50.8519298,21.122807 L27.9852632,21.122807 C21.5992982,21.6017544 21.42,28.1473684 21.42,28.1473684 C21.4150877,28.974269 21.4134503,29.797076 21.4150877,30.6157895 Z" id="Shape" fill="#DADADA" fill-rule="evenodd"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
