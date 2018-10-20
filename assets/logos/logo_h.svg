@@ -3,7 +3,19 @@
     <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
     <title>LOGO HORIZONTAL</title>
     <desc>Created with Sketch.</desc>
-    <defs></defs>
+    <defs>
+      <style>
+        @font-face {
+          font-family:"Brandish";
+          src: url("Brand_Font_by_connecttohuman_x.eot") format("eot"),
+          url("Brand_Font_by_connecttohuman_x.woff") format("woff"),
+          url("Brand_Font_by_connecttohuman_x.ttf") format("truetype"),
+          url("Brand_Font_by_connecttohuman_x.svg#Brandish") format("svg");
+          font-weight:normal;
+          font-style:normal;
+        }
+      </style>
+    </defs>
     <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
         <g id="NavBar/Normal" transform="translate(-10.000000, -10.000000)">
             <g id="LOGO-HORIZONTAL" transform="translate(10.000000, 10.000000)">
