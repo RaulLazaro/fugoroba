@@ -15,5 +15,8 @@
 .b8px {border-radius: 8px;}
 .b100px {border-radius: 100px;}
 
-.btn {padding: 16px 24px;}
-.btn-sm {padding: 10px 20px;}
+.btn {padding: 10px 20px;}
+
+@media (min-width: 576px) {
+  .btn-sm {padding: 16px 24px;}
+}
