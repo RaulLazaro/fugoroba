@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="44px" height="34px" viewBox="0 0 44 34" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>Menu</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Menu" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Stacked-Group" fill="#DADADA">
+            <rect id="Rectangle-2" x="0" y="0" width="44" height="8" rx="4"></rect>
+            <rect id="Rectangle-2" x="0" y="13" width="44" height="8" rx="4"></rect>
+            <rect id="Rectangle-2" x="0" y="26" width="44" height="8" rx="4"></rect>
+        </g>
+    </g>
+</svg>

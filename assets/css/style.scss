@@ -7,7 +7,77 @@
 
 @import "grid.scss";
 
-.box{
+@import "typography.scss";
+
+$primary: #008BD2;
+$secondary: #485DC5;
+$dark: #2D2F3B;
+$light: #DADADA;
+$lighter: rgba(218,218,218,0.20);
+$white: #FFFFFF;
+$warning: rgba(218,218,218,0.20);
+$info: rgba(218,218,218,0.20);
+$danger: rgba(218,218,218,0.20);
+$hover: rgba(255,255,255,0.20);
+$pressed: rgba(0,0,0,0.20);
+
+.navbar {
+  background: $white;
+  box-shadow: 0 2px 4px 0 rgba(0,0,0,0.50);
+  padding: 10px;
+  position: relative;
+  display: flex;
+  align-items: center;
+}
+
+.logo-navbar {
+  line-height: 0;
+  margin-right: auto;
+}
+
+.navbar a {
+  text-align: center;
+  text-decoration: none;
+}
+
+.navbar .right {
+  margin-left: 28px;
+}
+
+.navbar .icon {
+  display: none;
+  line-height: 0;
+}
+
+@media screen and (max-width: 810px) {
+  .navbar a:not(:first-child) {display: none;}
+  .navbar a.icon {
+    display: block;
+  }
+
+  .navbar.responsive {
+    flex-direction: column;
+  }
+  .navbar.responsive .icon {
+    position: absolute;
+    right: 10px;
+    top: 16px;
+  }
+  .navbar.responsive .right {
+    float: none;
+    display: block;
+    text-align: center;
+    margin: 10px auto;
+  }
+}
+
+
+.hero{
+  background:  url({{ 'assets/media/hero.svg' | absolute_url }}) no-repeat center center;
+  background-size: cover;
+}
+
+.box {
   background: slateblue;
   color: white;
   text-align: center;
