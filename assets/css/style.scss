@@ -90,6 +90,20 @@ $pressed: rgba(0,0,0,0.20);
   background-size: cover;
 }
 
+.lowpoly2 {
+  background:  url({{ 'assets/media/lowpoly2.svg' | absolute_url }}) no-repeat bottom center;
+  background-size: cover;
+}
+
+.lowpoly2 h1 {
+  margin: 0;
+  padding: 40px 10px 100px 10px;
+}
+.row img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
 
 .parallax {
   background: url({{ 'assets/media/industria.jpg' | absolute_url }}) no-repeat center center;
