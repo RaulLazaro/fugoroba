@@ -1,23 +1,32 @@
-<div class="navbar" id="mynavbar">
-  <a class="logo-navbar" href="{{site.url}}{{site.baseurl}}/">
-    <img src="{{site.url}}{{site.baseurl}}/assets/logos/logo-navbar.svg" height="56px" alt="logo">
-  </a>
-  <a class="right blak" href="{{site.url}}{{site.baseurl}}/Productos">Productos</a>
-  <a class="right blak" href="{{site.url}}{{site.baseurl}}/Sectores de Actividad">Sectores de Actividad</a>
-  <a class="right blak" href="{{site.url}}{{site.baseurl}}/Calidad y Medioambiente">Calidad y Medioambiente</a>
-  <a class="right withe contacto" href="{{site.url}}{{site.baseurl}}/Contacto">Contacto</a>
-  <a href="javascript:void(0);" class="icon" onclick="myFunction()">
-    <img src="{{site.url}}{{site.baseurl}}/assets/logos/menu.svg" height="44px" alt="logo">
-  </a>
+<div class="navbar">
+  <div class="flex-h">
+    <a class="logo-navbar" href="{{site.url}}{{site.baseurl}}/">
+      <img src="{{site.url}}{{site.baseurl}}/assets/logos/logo-navbar.svg" class="img-fluid" width="195" height="56" alt="logo">
+    </a>
+    <div class="main-nav">
+      <a class="text-blak" href="{{site.url}}{{site.baseurl}}/Productos">Productos</a>
+      <a class="text-blak" href="{{site.url}}{{site.baseurl}}/Sectores-de-Actividad">Sectores de Actividad</a>
+      <a class="text-blak" href="{{site.url}}{{site.baseurl}}/Calidad-y-Medioambiente">Calidad y Medioambiente</a>
+    </div>
+    <a class="btn b100px primary text-white contacto" href="{{site.url}}{{site.baseurl}}/Contacto">Contacto</a>
+    <a href="javascript:void(0);" class="navbar-toggle" onclick="menu()">
+      <img src="{{site.url}}{{site.baseurl}}/assets/logos/menu.svg" class="img-fluid" width="44" height="34px" alt="logo">
+    </a>
+  </div>
+  <div class="flex-v" id="js-menu">
+    <a class="blak" href="{{site.url}}{{site.baseurl}}/Productos">Productos</a>
+    <a class="blak" href="{{site.url}}{{site.baseurl}}/Sectores-de-Actividad">Sectores de Actividad</a>
+    <a class="blak" href="{{site.url}}{{site.baseurl}}/Calidad-y-Medioambiente">Calidad y Medioambiente</a>
+  </div>
 </div>
 
 <script>
-function myFunction() {
-    var x = document.getElementById("mynavbar");
-    if (x.className === "navbar") {
-        x.className += " responsive";
+function menu() {
+    var x = document.getElementById("js-menu");
+    if (x.className === "flex-v") {
+        x.className += " active";
     } else {
-        x.className = "navbar";
+        x.className = "flex-v";
     }
 }
 </script>
