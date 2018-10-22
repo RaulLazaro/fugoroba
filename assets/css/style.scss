@@ -90,27 +90,24 @@ $pressed: rgba(0,0,0,0.20);
 }
 
 
-.img{
+.parallax {
   background: url({{ 'assets/media/industria.jpg' | absolute_url }}) no-repeat center center;
-  background-size: auto 99%;
+  background-size: cover;
+  background-attachment: fixed;
+  height: 100%;
+  margin-top: -100px;
+  margin-bottom: -175px;
 }
 
 .mask {
-  background: url({{ 'assets/media/mask.svg' | absolute_url }}) no-repeat bottom center;
+  background: url({{ 'assets/media/mask.svg' | absolute_url }}) no-repeat center center;
   background-size: cover;
-}
-
-.parallax {
-  margin-top: -100px;
-  margin-bottom: -175px;
 }
 
 .parallax .row {
   padding-top: 50%;
   padding-bottom: 50%;
 }
-
-
 
 
 .box {
