@@ -109,9 +109,12 @@ $pressed: rgba(0,0,0,0.20);
   background: url({{ 'assets/media/industria.jpg' | absolute_url }}) no-repeat center center;
   background-size: cover;
   background-attachment: fixed;
-  height: 100%;
   margin-top: -100px;
   margin-bottom: -175px;
+  position: relative;
+  z-index: -1;
+  outline: 2px solid white;
+  outline-offset: -1px;
 }
 
 @media (min-width: 768px) {
@@ -127,9 +130,11 @@ $pressed: rgba(0,0,0,0.20);
     margin-bottom: -300px;
   }
 }
+
 .mask {
-  background: url({{ 'assets/media/mask.svg' | absolute_url }}) no-repeat center center;
+  background: url({{ 'assets/media/mask.svg' | absolute_url }}) no-repeat top center;
   background-size: cover;
+
 }
 
 .parallax .row {
