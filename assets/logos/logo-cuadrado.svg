@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="230px" height="230px" viewBox="0 0 230 230" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>LOGO CUADRADO</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="LOGO-CUADRADO" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="Rectangle-path" stroke="#485DC5" stroke-width="2" fill="#0085CF" fill-rule="nonzero" x="22" y="22" width="185.59" height="185.58"></rect>
+        <rect id="Rectangle-path" stroke="#485DC5" stroke-width="2" fill="#FFFFFF" fill-rule="nonzero" transform="translate(114.795000, 114.795000) rotate(-15.000000) translate(-114.795000, -114.795000) " x="22" y="22" width="185.59" height="185.59"></rect>
+        <path d="M114.79,22 L207.62,22 L207.62,114.78 C207.62,165.78 165.87,207.56 114.83,207.56 L22,207.56 L22,114.78 C22,63.78 63.75,22 114.79,22 Z" id="Shape" stroke="#485DC5" stroke-width="2" fill="#0085CF"></path>
+        <path d="M87.19,124.65 L186.53,124.77 C179.15,162.52 145.64,189.46 116.09,188.6 L87.56,188.6 C87.66,200.6 87.74,207.6 87.74,207.6 L22,207.6 L22,114.8 C22,63.8 63.75,22 114.79,22 L207.58,22 C207.4,43.3333333 207.22,64.6666667 207.04,86 L113.94,86 C87.94,87.95 87.21,114.6 87.21,114.6 C87.19,117.966667 87.1833333,121.316667 87.19,124.65 Z" id="Shape" stroke="#485DC5" stroke-width="2" fill="#DADADA"></path>
+    </g>
+</svg>
