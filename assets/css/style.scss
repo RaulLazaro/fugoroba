@@ -24,66 +24,17 @@ $pressed: rgba(0,0,0,0.20);
 
 @import "buttons.scss";
 
+@import "navbar.scss";
+
+@import "bootstrap/functions";
+@import "bootstrap/variables";
+@import "bootstrap/mixins";
+@import "bootstrap/forms";
+
 .img-fluid{
   height: auto;
   max-width: 100%;
 }
-
-
-.navbar {
-  background: $white;
-  box-shadow: 0 2px 4px 0 rgba(0,0,0,0.50);
-  padding: 10px;
-  position: relative;
-}
-
-.navbar a {text-decoration: none;}
-.navbar a:not(.contacto):hover {color: mix(white, black, 50%);}
-
-.flex-h {
-    display: flex;
-    flex-direction: row;
-    align-items: center;
-}
-
-.main-nav a{
-  padding: 10px;
-  margin-right: 10px;
-}
-
-.logo-navbar {
-  margin-right: auto;
-  line-height: 0px;
-}
-
-.navbar-toggle {
-  margin-left: 10px;
-  line-height: 0px;
-}
-
-.flex-v {
-  display: none;
-  flex-direction: column;
-}
-
-.flex-v a {
-  padding: 10px;
-  margin-top: 10px;
-}
-
-.active {
-  display: flex;
-}
-
-.main-nav {display: none;}
-
-.contacto {margin-left: 10px;}
-
-@media (min-width: 845px) {
-  .main-nav {display: block;}
-  .navbar-toggle {display: none;}
-}
-
 
 .hero {
   background:  url({{ 'assets/media/hero.svg' | absolute_url }}) no-repeat bottom center;
