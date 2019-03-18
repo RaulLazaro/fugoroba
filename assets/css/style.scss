@@ -31,7 +31,11 @@ $pressed: rgba(0,0,0,0.20);
 @import "bootstrap/mixins";
 @import "bootstrap/forms";
 
-.img-fluid{
+address {
+  font-style:normal;
+}
+
+.img-fluid {
   height: auto;
   max-width: 100%;
 }
