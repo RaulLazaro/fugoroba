@@ -19,7 +19,7 @@ description: ""
 url: # the base hostname & protocol for your site, e.g. http://example.com
 baseurl:
 lang: es_ES
-logo:
+logo: /assets/logo/logo.png
 
 # SEO
 twitter:
@@ -31,7 +31,7 @@ telegram:
 canalTelegram:
 instagram:
 social:
-  type:  # Person or Organization (defaults to Person)
+  type: Organization # Person or Organization (defaults to Person)
   links: # An array of links to social media profiles
 
 webmaster_verifications:
