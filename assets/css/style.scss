@@ -45,6 +45,16 @@ address {
   background-size: cover;
 }
 
+.lowpoly {
+  background:  url({{ 'assets/media/lowpoly.svg' | absolute_url }}) no-repeat bottom center;
+  background-size: cover;
+}
+
+.lowpoly h1 {
+  margin: 0;
+  padding: 40px 10px 100px 10px;
+}
+
 .lowpoly2 {
   background:  url({{ 'assets/media/lowpoly2.svg' | absolute_url }}) no-repeat bottom center;
   background-size: cover;
@@ -54,6 +64,7 @@ address {
   margin: 0;
   padding: 40px 10px 100px 10px;
 }
+
 .row .img-fluid {
   display: block;
   margin-left: auto;
