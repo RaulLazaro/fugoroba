@@ -16,7 +16,7 @@
 title: "Fugoroba"
 email: 
 description: "Fugoroba Instalaciones y Servicios"
-url: # the base hostname & protocol for your site, e.g. http://example.com
+url: #http://fugoroba.es # the base hostname & protocol for your site, e.g. http://example.com
 baseurl:
 lang: es_ES
 logo: /assets/logos/logo.png
