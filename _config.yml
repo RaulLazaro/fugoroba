@@ -47,8 +47,8 @@ google_analytics:
 markdown: kramdown
 highlighter: rouge
 kramdown:
-# parse markdown inside block-level HTML tag
-parse_block_html: true
+  # parse markdown inside block-level HTML tag
+  parse_block_html: true
 sass:
   style: compressed
 
