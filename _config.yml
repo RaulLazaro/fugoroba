@@ -14,12 +14,12 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: "Fugoroba"
-email:
-description: ""
-url: # the base hostname & protocol for your site, e.g. http://example.com
+email: raullazaro94@gmail.com
+description: "Fugoroba Instalaciones y Servicios"
+url: http://fugoroba.es # the base hostname & protocol for your site, e.g. http://example.com
 baseurl:
 lang: es_ES
-logo: /assets/logo/logo.png
+logo: /assets/logos/logo.png
 
 # SEO
 twitter:
@@ -84,7 +84,11 @@ defaults:
       type: posts
     values:
       layout: posts
-
+  - scope:
+      path: ""
+      type: pages
+    values:
+      image: /assets/logos/logo.png
 include:
   - _pages
 # Exclude from processing.
