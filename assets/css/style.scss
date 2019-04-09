@@ -45,6 +45,11 @@ address {
   background-size: cover;
 }
 
+.separator {
+  padding-top:1px;
+  padding-bottom:0px;
+}
+
 .lowpoly {
   background:  url({{ 'assets/media/lowpoly.svg' | absolute_url }}) no-repeat bottom center;
   background-size: cover;
