@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: "Fugoroba"
-email: 
+email: fugoroba@fugoroba.es
 description: "Fugoroba Instalaciones y Servicios"
 url: #http://fugoroba.es # the base hostname & protocol for your site, e.g. http://example.com
 baseurl:
