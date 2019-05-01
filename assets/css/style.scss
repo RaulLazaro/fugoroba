@@ -45,6 +45,11 @@ address {
   background-size: cover;
 }
 
+.shadow {
+  -webkit-filter: drop-shadow(0 2px 4px rgba(0,0,0,0.5));
+  filter: drop-shadow(0 2px 4px rgba(0,0,0,0.5)); 
+}
+
 .separator {
   padding-top:1px;
   padding-bottom:0px;
