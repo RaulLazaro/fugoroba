@@ -26,6 +26,8 @@ $pressed: rgba(0,0,0,0.20);
 
 @import "navbar.scss";
 
+@import "animate.scss";
+
 @import "bootstrap/functions";
 @import "bootstrap/variables";
 @import "bootstrap/mixins";
@@ -100,7 +102,7 @@ address {
 
 #galeria img:hover {
   transition: .5s ease;
-  filter: opacity(70%);
+  filter: opacity(80%);
 }
 
 @media (min-width: 768px) {
