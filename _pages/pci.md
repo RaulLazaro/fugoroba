@@ -18,6 +18,33 @@ Aportamos soluciones para Edificios Singulares, Salas de Equipos de Telecomunica
 - Grupos de presión.
 
 - Sistemas de Rociadores (splinkers).
+
+Sistemas de protección contra incendios de las siguientes familias y su señalización luminiscente:
+1. Instalación de:
+
+    - Extintores de incendio  
+
+2. Instalación y mantenimiento de:
+
+    - Sistemas de detección y de alarma de incendios  
+
+3. Instalación y mantenimiento de:
+    - Sistemas de abastecimiento de agua contra incendios  
+
+    - Sistemas de hidrantes contra incendios  
+
+    - Sistemas de bocas de incendio equipadas  
+
+    - Sistemas de columna seca  
+
+    - Sistemas fijos de extinción por rociadores automáticos y agua   pulverizada  
+
+    - Sistemas fijos de extinción por agua nebulizada  
+
+    - Sistemas fijos de extinción por espuma física  
+
+    - Sistemas fijos de extinción por polvo
+
 </div>
 <div class="col-12 col-lg-6">
 <div class="row">
