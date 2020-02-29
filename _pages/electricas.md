@@ -1,6 +1,6 @@
 ---
 layout: pages
-permalink: /Eléctricas.html
+permalink: /electricas.html
 ---
 <h1 class="text-black center">Eléctricas</h1>
 

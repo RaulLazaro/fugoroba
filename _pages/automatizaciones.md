@@ -1,6 +1,6 @@
 ---
 layout: pages
-permalink: /Automatizaciones.html
+permalink: /automatizaciones.html
 ---
 <h1 class="text-black center">Automatizaciones</h1>
 

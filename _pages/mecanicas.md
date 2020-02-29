@@ -1,6 +1,6 @@
 ---
 layout: pages
-permalink: /Mecánicas.html
+permalink: /mecanicas.html
 ---
 <h1 class="text-black center">Mecánicas</h1>
 

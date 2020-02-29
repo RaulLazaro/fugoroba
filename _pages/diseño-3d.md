@@ -1,8 +1,8 @@
 ---
 layout: pages
-permalink: /pci.html
+permalink: /diseño-3d.html
 ---
-<h1 class="text-black center">PCI</h1>
+<h1 class="text-black center">Diseño 3D</h1>
 
 <div class="container">
 <div class="row">

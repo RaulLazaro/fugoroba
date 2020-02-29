@@ -1,8 +1,8 @@
 ---
 layout: pages
-permalink: /Redes-Informaticas.html
+permalink: /redes-informaticas.html
 ---
-<h1 class="text-black center">Redes Informaticas</h1>
+<h1 class="text-black center">Redes Informáticas</h1>
 
 <div class="container">
 <div class="row">
