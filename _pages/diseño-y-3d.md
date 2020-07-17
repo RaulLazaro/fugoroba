@@ -37,5 +37,11 @@ En Fugoroba utilizamos herramientas digitales modernas de diseño que nos permit
 <div class="col-12 col-lg-6">
 <img src="{{site.url}}{{site.baseurl}}/assets/media/diseño-y-3d/5.png" class="img-fluid" alt="diseño-y-3d 5">
 </div>
+<div class="col-12 col-lg-6">
+<img src="{{site.url}}{{site.baseurl}}/assets/media/diseño-y-3d/7.jpg" class="img-fluid" alt="diseño-y-3d 7">
+</div>
+<div class="col-12 col-lg-6">
+<img src="{{site.url}}{{site.baseurl}}/assets/media/diseño-y-3d/8.jpg" class="img-fluid" alt="diseño-y-3d 8">
+</div>
 </div>
 </div>
