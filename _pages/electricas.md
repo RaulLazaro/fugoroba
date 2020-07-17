@@ -26,14 +26,10 @@ Estamos especializados en:
 - Asistencias técnicas y seguimientos. Equipamiento de entornos industriales.
 </div>
 <div class="col-12 col-lg-6">
-<div class="row">
-<div class="col-12 col-lg-12 col-sm-6">
 <img src="{{site.url}}{{site.baseurl}}/assets/media/electricas/1.jpg" class="img-fluid" alt="Eléctricas 1">
 </div>
-<div class="col-12 col-lg-12 col-sm-6">
+<div class="col-12 col-lg-6">
 <img src="{{site.url}}{{site.baseurl}}/assets/media/electricas/2.jpg" class="img-fluid" alt="Eléctricas 2">
-</div>
-</div>
 </div>
 </div>
 </div>

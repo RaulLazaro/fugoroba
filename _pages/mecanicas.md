@@ -30,14 +30,10 @@ Nuestros sistemas de filtración de líquidos y tratamiento de virutas, abarcan 
 - Carga y descarga de máquinas específicas.
 </div>
 <div class="col-12 col-lg-6">
-<div class="row">
-<div class="col-12 col-lg-12 col-sm-6">
 <img src="{{site.url}}{{site.baseurl}}/assets/media/mecanicas/1.jpg" class="img-fluid" alt="Mecánicas 1">
 </div>
-<div class="col-12 col-lg-12 col-sm-6">
+<div class="col-12 col-lg-6">
 <img src="{{site.url}}{{site.baseurl}}/assets/media/mecanicas/2.jpg" class="img-fluid" alt="Mecánicas 2">
-</div>
-</div>
 </div>
 </div>
 </div>
